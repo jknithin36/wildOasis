@@ -1,0 +1,3 @@
+powerful library for managing remote server state
+
+Many features that allows us to write a lot less code, while also making the UX a lot better
